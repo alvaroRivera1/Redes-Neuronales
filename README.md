@@ -1,4 +1,4 @@
-# Redes-Neuronales
+# Proyecto Unidad 1 - Inteligencia Artificial
 
 >**Integrantes**
 *   Anselmo César Farfan Pajuelo
